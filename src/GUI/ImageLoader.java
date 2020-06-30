@@ -6,9 +6,6 @@ import java.util.*;
 
 /*
  * Load an image from a String or URL
- * 
- * @author Fawzi Emad @author Ben Bederson @author Bill Pugh 
- * Copyright (C) 2003-2020 University of Maryland
  *  
  */
 public class ImageLoader {
